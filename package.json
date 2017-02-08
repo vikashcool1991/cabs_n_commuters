@@ -1,0 +1,14 @@
+{
+  "name": "cabs_n_commuters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kmeans-js": "^0.1.2"
+  }
+}
